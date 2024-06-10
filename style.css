@@ -1,6 +1,5 @@
 h1{
-    font-size: 350%;
-    color: white;
+    font-size: 350%
 }
 .carousel-item{
   
@@ -9,4 +8,22 @@ h1{
 }
 body{
     background-color:  rgb(31, 29, 29);
+    color: white;
 }
+.row{
+text-align: justify;
+font-size: larger;
+
+}
+.footer {
+    position: fixed;
+    left: 0;
+    bottom: 0;
+    width: 100%;
+    color: white;
+    text-align: center;
+ }
+ a{
+    color: white;
+ }
+ 
